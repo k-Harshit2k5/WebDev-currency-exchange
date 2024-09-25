@@ -68,3 +68,8 @@ form button{
     font-size: 1.2rem;
     cursor: pointer;
 }
+@media only screen and (max-width: 565px){
+    .container{
+        width: 75vmin;
+    }
+}
